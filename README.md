@@ -1,2 +1,1 @@
-# 7graus
-# 7graus
+# frontend-developer
